@@ -23,7 +23,7 @@ html {
                             /* NavBar */
 
 nav {
-  background-image: url('./assets/fondoNav3.svg');
+  background-image: url('./assets/FondoNav3.svg');
   background-size: cover;
 }
 
@@ -104,7 +104,7 @@ nav.navbar {
 .welcome {
     margin-top: 0;
     padding: 110px 0 50px 0;
-    background-image: url('./assets/fondoNav3.svg');
+    background-image: url('./assets/FondoNav3.svg');
     background-size: cover;
 }
 
@@ -346,7 +346,7 @@ nav.navbar {
                 /* Footer */
 
   .footer {
-    background-image: url('./assets/fondoNav3.svg');
+    background-image: url('./assets/FondoNav3.svg');
     background-size: cover;
     padding-top: 13px;
   }
@@ -385,7 +385,7 @@ nav.navbar {
 
                 /* Help */
   .help {
-    background-image: url('./assets/fondoNav3.svg');
+    background-image: url('./assets/FondoNav3.svg');
     background-size: cover;
     padding-top: 10vh;
   }
@@ -442,7 +442,7 @@ nav.navbar {
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        background-image: url('./assets/fondoNav3.svg');
+        background-image: url('./assets/FondoNav3.svg');
         background-size: cover;
         background-repeat: no-repeat;
         margin-top: 10px;
@@ -452,7 +452,7 @@ nav.navbar {
         display: flex;
         justify-content: center;
         align-items: center;
-        background-image: url('./assets/fondoNav3.svg');
+        background-image: url('./assets/FondoNav3.svg');
         background-size: cover;
         background-repeat: no-repeat;
     }
