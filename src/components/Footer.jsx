@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/esm/Container'
 import Row from 'react-bootstrap/esm/Row'
 import { BsFacebook, BsInstagram } from "react-icons/bs";
 import { Link } from 'react-router-dom';
-import { Presentation } from './presentation';
+import { Presentation } from './Presentation';
 
 export const Footer = () => {
   return (
