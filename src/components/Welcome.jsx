@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { Carrusel } from './Carrusel';
 import { AboutUs } from './AboutUs';
-import { Jobs } from './jobs';
+import { Jobs } from './Jobs';
 import { Services } from './Services';
 import { Contact } from './Contact';
 import { UserHelp } from './UserHelp';
