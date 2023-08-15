@@ -17,7 +17,7 @@ export const Footer = () => {
                         <div>
                             <div className='container-contact'>
                             <p>Whatsapp: +54 9 2914 14-2204</p>
-                            <p>Email: Reinatrenzas@gmil.com</p>
+                            <p>Email: Reinatrenzas@gmail.com</p>
                             </div>
                             <div className='container-contact'>
                             <p>Horario de atencion:</p>
