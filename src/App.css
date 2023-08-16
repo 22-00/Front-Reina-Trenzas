@@ -23,7 +23,7 @@ html {
                             /* NavBar */
 
 nav {
-  background-image: url('./assets/FondoNav3.svg');
+  background-image: url('./assets/wave2.svg');
   background-size: cover;
 }
 
@@ -53,13 +53,13 @@ nav.navbar {
   }
 
   .redesSociales span a svg {
-    color: black;
+    color: rgba(0,0,0,0.65);
     width: 30px;
     height: 25px;
   }
 
   .redesSociales span a svg:hover {
-    color: rgba(255, 222, 255, 1);
+    color: black;
     transition: 0.5s ease-in;
   }
 
@@ -104,8 +104,8 @@ nav.navbar {
 .welcome {
     margin-top: 0;
     padding: 110px 0 50px 0;
-    background-image: url('./assets/FondoNav3.svg');
-    background-size: cover;
+    background-image: url('./assets/wave2.svg');
+    background-size: 100%;
 }
 
 
@@ -356,13 +356,13 @@ nav.navbar {
   }
 
   .footer .footer-redesSociales span a svg {
-    color: black;
+    color: rgba(0,0 ,0 ,0.65 );
     width: 30px;
     height: 25px;
   }
 
   .footer .footer-redesSociales span a svg:hover {
-    color: rgba(255, 222, 255, 1);
+    color: black;
     transition: 0.50s ease-in;
   }
 
@@ -415,6 +415,12 @@ nav.navbar {
   }
 
                 /* UserHepl */
+
+  .userHelp {
+    background-image: url("./assets/wave2.svg");
+    background-size: cover;
+  }
+
   .userHelp p {
     font-size: 15px;
     font-weight: 400;
@@ -442,18 +448,19 @@ nav.navbar {
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        background-image: url('./assets/FondoNav3.svg');
-        background-size: cover;
         background-repeat: no-repeat;
         margin-top: 10px;
+    }
+
+    .welcome {
+      background-image: url('./assets/wave2.svg');
+      background-size: cover;
     }
 
     .redesSociales{
         display: flex;
         justify-content: center;
         align-items: center;
-        background-image: url('./assets/FondoNav3.svg');
-        background-size: cover;
         background-repeat: no-repeat;
     }
 
